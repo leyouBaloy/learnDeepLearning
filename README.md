@@ -1,5 +1,5 @@
 # learnDeepLearning
-存放学深度学习时“抄”的代码
+昕哥课堂讲《统计学习方法》：https://www.bilibili.com/video/BV1CQ4y1C7up
 
 动手学深度学习：https://zh-v2.d2l.ai/
 
